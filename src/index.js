@@ -17,7 +17,6 @@ const init = () => {
             title.innerText = data.title;
             summary.innerText = data.summary;
         });
-
     });
 }
 
